@@ -2,15 +2,15 @@ using IA_VS_COVID.Constants;
 
 namespace IA_VS_COVID
 {
-    public partial class Form1 : Form
+    public partial class Home : Form
     {
-        public Form1()
+        public Home()
         {
             InitializeComponent();
             this.BackgroundImage = Image.FromFile(AppGraphics.HOME);
             RBtn_Comenzar.BackColor = AppColors.blue;
-            pictureBox1.BackgroundImage = Image.FromFile(AppGraphics.VIRUS);
-            pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
+            Pb_Informacion.BackgroundImage = Image.FromFile(AppGraphics.VIRUS);
+            Pb_Informacion.BackgroundImageLayout = ImageLayout.Stretch;
         }
         
     }

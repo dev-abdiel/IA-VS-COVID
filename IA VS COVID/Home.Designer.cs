@@ -2,7 +2,7 @@
 
 namespace IA_VS_COVID
 {
-    partial class Form1
+    partial class Home
     {
         /// <summary>
         ///  Required designer variable.
@@ -31,8 +31,8 @@ namespace IA_VS_COVID
         private void InitializeComponent()
         {
             this.RBtn_Comenzar = new IA_VS_COVID.Constants.RoundedButton();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.Pb_Informacion = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.Pb_Informacion)).BeginInit();
             this.SuspendLayout();
             // 
             // RBtn_Comenzar
@@ -47,26 +47,26 @@ namespace IA_VS_COVID
             this.RBtn_Comenzar.Text = "roundedButton1";
             this.RBtn_Comenzar.UseVisualStyleBackColor = true;
             // 
-            // pictureBox1
+            // Pb_Informacion
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.White;
-            this.pictureBox1.Location = new System.Drawing.Point(1, 338);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(115, 115);
-            this.pictureBox1.TabIndex = 2;
-            this.pictureBox1.TabStop = false;
+            this.Pb_Informacion.BackColor = System.Drawing.Color.White;
+            this.Pb_Informacion.Location = new System.Drawing.Point(1, 338);
+            this.Pb_Informacion.Name = "Pb_Informacion";
+            this.Pb_Informacion.Size = new System.Drawing.Size(115, 115);
+            this.Pb_Informacion.TabIndex = 2;
+            this.Pb_Informacion.TabStop = false;
             // 
-            // Form1
+            // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.Pb_Informacion);
             this.Controls.Add(this.RBtn_Comenzar);
-            this.Name = "Form1";
+            this.Name = "Home";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pb_Informacion)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -74,6 +74,6 @@ namespace IA_VS_COVID
         #endregion
 
         private RoundedButton RBtn_Comenzar;
-        private PictureBox pictureBox1;
+        private PictureBox Pb_Informacion;
     }
 }
