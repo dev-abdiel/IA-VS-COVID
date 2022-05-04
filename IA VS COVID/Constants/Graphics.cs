@@ -16,5 +16,6 @@ namespace IA_VS_COVID.Constants
         public readonly static String PERSONAL_DATA = $"{_prefix}/3.png";
         public readonly static String BACKGROUND = $"{_prefix}/4.png";
         public readonly static String VIRUS = $"{_prefix}/virus.png";
+        public readonly static String BTN_REGRESAR = $"{_prefix}/regreso.png";
     }
 }

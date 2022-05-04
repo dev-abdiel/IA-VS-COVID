@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\leon_\\.nuget\\packages\\": {}
+    "C:\\Users\\Antonio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leon_\\source\\repos\\IA VS COVID\\IA VS COVID\\IA VS COVID.csproj",
+      "projectUniqueName": "C:\\Users\\Antonio\\Source\\Repos\\IA-VS-COVID\\IA VS COVID\\IA VS COVID.csproj",
       "projectName": "IA VS COVID",
-      "projectPath": "C:\\Users\\leon_\\source\\repos\\IA VS COVID\\IA VS COVID\\IA VS COVID.csproj",
-      "packagesPath": "C:\\Users\\leon_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leon_\\source\\repos\\IA VS COVID\\IA VS COVID\\obj\\",
+      "projectPath": "C:\\Users\\Antonio\\Source\\Repos\\IA-VS-COVID\\IA VS COVID\\IA VS COVID.csproj",
+      "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Antonio\\Source\\Repos\\IA-VS-COVID\\IA VS COVID\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leon_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
