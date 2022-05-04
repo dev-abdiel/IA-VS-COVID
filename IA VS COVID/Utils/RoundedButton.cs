@@ -33,7 +33,7 @@ namespace IA_VS_COVID.Constants
             using (GraphicsPath GraphPath = GetRoundPath(Rect, 50))
             {
                 this.Region = new Region(GraphPath);
-                using (Pen pen = new Pen(AppColors.blue, 1.75f))
+                using (Pen pen = new Pen(AppColors.white, 1.75f))
                 {
                     pen.Alignment = PenAlignment.Inset;
                     e.Graphics.DrawPath(pen, GraphPath);

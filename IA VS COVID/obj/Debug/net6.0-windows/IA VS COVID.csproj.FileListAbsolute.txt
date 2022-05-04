@@ -4,7 +4,6 @@ C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\bin\Debug\net6.0-windows\IA 
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.dll
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.pdb
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.csproj.AssemblyReference.cache
-C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Form1.resources
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.csproj.GenerateResource.cache
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.AssemblyInfoInputs.cache
@@ -32,3 +31,4 @@ C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\refi
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.pdb
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.genruntimeconfig.cache
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\ref\IA VS COVID.dll
+C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Home.resources
