@@ -26,8 +26,7 @@ namespace IA_VS_COVID
 
         private void Btn_Regresar_Click(object sender, EventArgs e)
         {
-            Home form = new Home();
-            form.Show();
+            this.Close();
         }
     }
 }
