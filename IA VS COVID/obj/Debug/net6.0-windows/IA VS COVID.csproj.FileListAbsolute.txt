@@ -15,3 +15,20 @@ C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\ref
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.pdb
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.genruntimeconfig.cache
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\ref\IA VS COVID.dll
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.exe
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.deps.json
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.runtimeconfig.json
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.dll
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.pdb
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.csproj.AssemblyReference.cache
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Form1.resources
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.csproj.GenerateResource.cache
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.AssemblyInfoInputs.cache
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.AssemblyInfo.cs
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.csproj.CoreCompileInputs.cache
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.dll
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\refint\IA VS COVID.dll
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.pdb
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.genruntimeconfig.cache
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\ref\IA VS COVID.dll
