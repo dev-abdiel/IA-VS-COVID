@@ -8,6 +8,9 @@ namespace IA_VS_COVID.Constants
 {
     public abstract class AppTexts
     {
-        public readonly static String COMENZAR = "Comenzar";
+        public readonly static String COMENZAR = "COMENZAR";
+        public readonly static String NOMBRE = "Nombre";
+        public readonly static String EDAD = "EDAD";
+        public readonly static String CONTINUAR = "CONTINUAR TEST";
     }
 }
