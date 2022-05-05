@@ -74,7 +74,7 @@ namespace IA_VS_COVID
                     checkanswers();
                 }
             }
-            else MessageBox.Show("Conteste todas las preguntas");
+            else MessageBox.Show("Por favor de Contestar todas las preguntas","Advertencia",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
         }
 
         private void checkanswers()
@@ -137,46 +137,55 @@ namespace IA_VS_COVID
             {
                 Form form = new InformationOmicron();
                 form.ShowDialog();
+                this.Dispose();
             }
             else if(covid >= 5)
             {
                 Form form = new InformationCovid();
                 form.ShowDialog();
+                this.Dispose();
             }
             else if (delta >= 5)
             {
                 Form form = new InformationDelta();
                 form.ShowDialog();
+                this.Dispose();
             }
             else if(gripa>= 4)
             {
                 Form form = new InformationGripa();
                 form.ShowDialog();
+                this.Dispose();
             }
             else if(omicron>delta && omicron>covid && omicron > gripa)
             {
                 Form form = new InformationOmicron();
                 form.ShowDialog();
+                this.Dispose();
             }
             else if (delta > omicron && delta > covid && delta > gripa)
             {
                 Form form = new InformationDelta();
                 form.ShowDialog();
+                this.Dispose();
             }
             else if (covid > delta && covid > omicron && covid > gripa)
             {
                 Form form = new InformationCovid();
                 form.ShowDialog();
+                this.Dispose();
             }
             else if (gripa > delta && gripa > omicron && gripa > covid)
             {
                 Form form = new InformationGripa();
                 form.ShowDialog();
+                this.Dispose();
             }
             else
             {
                 Form form = new InformationSinSintomas();
                 form.ShowDialog();
+                this.Dispose();
             }
 
         }

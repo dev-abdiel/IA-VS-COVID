@@ -122,6 +122,8 @@
             // RBtn_Siguiente
             // 
             this.RBtn_Siguiente.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.RBtn_Siguiente.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.RBtn_Siguiente.ForeColor = System.Drawing.Color.White;
             this.RBtn_Siguiente.Location = new System.Drawing.Point(471, 350);
             this.RBtn_Siguiente.Name = "RBtn_Siguiente";
             this.RBtn_Siguiente.Size = new System.Drawing.Size(125, 49);
