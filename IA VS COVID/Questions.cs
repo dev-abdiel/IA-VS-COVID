@@ -135,57 +135,58 @@ namespace IA_VS_COVID
             }
             if (omicron >= 5)
             {
+                this.Hide();
                 Form form = new InformationOmicron();
                 form.ShowDialog();
-                this.Dispose();
             }
             else if(covid >= 5)
             {
+                this.Hide();
                 Form form = new InformationCovid();
                 form.ShowDialog();
-                this.Dispose();
             }
             else if (delta >= 5)
             {
+
+                this.Hide();
                 Form form = new InformationDelta();
                 form.ShowDialog();
-                this.Dispose();
             }
             else if(gripa>= 4)
             {
+                this.Hide();
                 Form form = new InformationGripa();
                 form.ShowDialog();
-                this.Dispose();
             }
             else if(omicron>delta && omicron>covid && omicron > gripa)
             {
+                this.Hide();
                 Form form = new InformationOmicron();
                 form.ShowDialog();
-                this.Dispose();
             }
             else if (delta > omicron && delta > covid && delta > gripa)
             {
+                this.Hide();
                 Form form = new InformationDelta();
                 form.ShowDialog();
-                this.Dispose();
             }
             else if (covid > delta && covid > omicron && covid > gripa)
             {
+                this.Hide();
                 Form form = new InformationCovid();
                 form.ShowDialog();
-                this.Dispose();
             }
             else if (gripa > delta && gripa > omicron && gripa > covid)
             {
+                this.Hide();
                 Form form = new InformationGripa();
                 form.ShowDialog();
-                this.Dispose();
             }
             else
             {
+                this.Hide();
                 Form form = new InformationSinSintomas();
                 form.ShowDialog();
-                this.Dispose();
             }
 
         }
