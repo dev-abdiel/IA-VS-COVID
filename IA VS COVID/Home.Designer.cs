@@ -46,6 +46,7 @@ namespace IA_VS_COVID
             this.RBtn_Comenzar.TabIndex = 1;
             this.RBtn_Comenzar.Text = "roundedButton1";
             this.RBtn_Comenzar.UseVisualStyleBackColor = true;
+           // this.RBtn_Comenzar.Click += new System.EventHandler(this.RBtn_Comenzar_Click_1);
             // 
             // Pb_Informacion
             // 
