@@ -29,6 +29,7 @@ namespace IA_VS_COVID
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.Btn_Aceptar = new IA_VS_COVID.Constants.RoundedButton();
             this.Lbl_Nombre = new System.Windows.Forms.Label();
             this.Lbl_Edad = new System.Windows.Forms.Label();
@@ -110,5 +111,14 @@ namespace IA_VS_COVID
         private Label Lbl_Edad;
         private TextBox Txt_Nombre;
         private TextBox Txt_Edad;
+=======
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "PersonalData";
+        }
+
+        #endregion
+>>>>>>> origin/dev
     }
 }
