@@ -20,7 +20,6 @@ C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\IA V
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.dll
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\IA VS COVID.pdb
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.csproj.AssemblyReference.cache
-C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Form1.resources
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.csproj.GenerateResource.cache
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.AssemblyInfoInputs.cache
@@ -32,6 +31,15 @@ C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA V
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.genruntimeconfig.cache
 C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\ref\IA VS COVID.dll
 C:\Users\leon_\source\repos\IA VS COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Home.resources
+<<<<<<< HEAD
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Home.resources
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Questions.resources
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.InformationCovid.resources
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.InformationOmicron.resources
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.InformationDelta.resources
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.InformationGripa.resources
+C:\Users\Acme\source\repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.InformationSinSintomas.resources
+=======
 C:\Users\Antonio\Source\Repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.csproj.AssemblyReference.cache
 C:\Users\Antonio\Source\Repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Home.resources
 C:\Users\Antonio\Source\Repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Information.resources
@@ -52,3 +60,4 @@ C:\Users\Antonio\Source\Repos\IA-VS-COVID\IA VS COVID\bin\Debug\net6.0-windows\I
 C:\Users\Antonio\Source\Repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA VS COVID.genruntimeconfig.cache
 C:\Users\Antonio\Source\Repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\ref\IA VS COVID.dll
 C:\Users\Antonio\Source\Repos\IA-VS-COVID\IA VS COVID\obj\Debug\net6.0-windows\IA_VS_COVID.Properties.Resources.resources
+>>>>>>> origin/dev

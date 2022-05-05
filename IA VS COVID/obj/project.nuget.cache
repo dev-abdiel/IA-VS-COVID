@@ -1,6 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "AKfTaWgLFPG11Hw0ZM2ltqP98qz9huRjgc98OFuobkjku78pK5ylIHeSMwSlKyOkVODfy+1o35xgf6VtdSv08w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acme\\source\\repos\\IA-VS-COVID\\IA VS COVID\\IA VS COVID.csproj",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "Zw5nvs0LX3PPURWGDFxWS+DjaL8bAZLe47v3WLt9kw3bhbPNYRDjlfPI7SjoCF85IVZWboRzXMjZg7d+eZ1gbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Antonio\\Source\\Repos\\IA-VS-COVID\\IA VS COVID\\IA VS COVID.csproj",
@@ -8,6 +13,7 @@
   "dgSpecHash": "bpx8drZMtH/wLw1+Na172jbTQtrnS2wQgWDSRRSqHgL8rLdR6ChwaA9gvxbhPTWqTaNWVeloksYnf+ym47CfxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\3PX45LA_RS5\\Source\\Repos\\IA-VS-COVID\\IA VS COVID\\IA VS COVID.csproj",
+>>>>>>> origin/dev
 >>>>>>> origin/dev
   "expectedPackageFiles": [],
   "logs": []
